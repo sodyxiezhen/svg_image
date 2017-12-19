@@ -1,5 +1,9 @@
 ## svg画雪花
 
-### git clone
+1. git clone --branch v1.0.0 https://github.com/sodyxiezhen/svg_image.git
 
-### npm run server
+2. npm install
+
+3. npm run server
+
+4. http://localhost:6868/
